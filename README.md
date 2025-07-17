@@ -6,16 +6,18 @@ CineBot is an intelligent movie recommendation chatbot that helps users discover
 ## 📸 Screenshots
 
 ### 💻 Web View (Dark Mode)
-![CineBot Dark Web](https://sreekareereddy04.github.io/cinebot/assets/cinebot-dark-desktop.jpg)
+![CineBot Dark Web](https://github.com/sreekareereddy04/Cine-Bot/blob/main/assests/cinebot-dark-desktop.jpg)
 
 ### 💻 Web View (Light Mode)
-![CineBot Light Web](https://sreekareereddy04.github.io/cinebot/assets/cinebot-light-desktop.jpg)
-
-### 📱 Mobile View (Light Mode)
-![CineBot Light Mobile](https://sreekareereddy04.github.io/cinebot/assets/cinebot-light-mobile.jpg)
+![CineBot Light Web](https://github.com/sreekareereddy04/Cine-Bot/blob/main/assests/cinebot-light-desktop.jpg)
 
 ### 📱 Mobile View (Dark Mode)
-![CineBot Dark Mobile](https://sreekareereddy04.github.io/cinebot/assets/cinebot-dark-mobile.jpg)
+![CineBot Dark Mobile](https://github.com/sreekareereddy04/Cine-Bot/blob/main/assests/cinebot-dark-mobile.jpg)
+
+### 📱 Mobile View (Light Mode)
+![CineBot Light Mobile](https://github.com/sreekareereddy04/Cine-Bot/blob/main/assests/cinebot-light-mobile.jpg)
+
+
 
 ---
 
